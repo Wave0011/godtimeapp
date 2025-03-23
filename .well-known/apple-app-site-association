@@ -7,5 +7,11 @@
                 "paths": ["/godtimeapp/intercept/*"]
             }
         ]
-    }
+    },
+ "activitycontinuation": {
+    "apps": ["2Q9W9SRA2R.com.barjindergoyal665.godtime"]
+  },
+  "webcredentials": {
+    "apps": ["2Q9W9SRA2R.com.barjindergoyal665.godtime"]
+  }
 }
