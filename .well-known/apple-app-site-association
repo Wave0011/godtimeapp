@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2Q9W9SRA2R.com.barjindergoyal665.godtime",
+                "paths": ["/godtime/intercept/*"]
+            }
+        ]
+    }
+}
